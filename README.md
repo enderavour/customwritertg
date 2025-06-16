@@ -1,10 +1,10 @@
-### customwritertg - Telegram userbot for custom typing effect 
+# customwritertg - Telegram userbot for custom typing effect 
 
-# Requirements 
+### Requirements 
 - cargo
 - settings file (already existing)
 
-# Usage
+### Usage
 
 Open file settings and set your api_id, api_hash (which you can receive from https://my.telegram.org/auth), and phone number 
 
