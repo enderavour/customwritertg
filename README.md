@@ -11,7 +11,13 @@ Open file settings and set your api_id, api_hash (which you can receive from htt
 Insert them into the file "settings" spaced from 
 API_ID 
 API_HASH 
-PHONENUMBER
+PHONENUMBER, e.g.\
+
+```cmd
+API_ID 1234567
+API_HASH 1234abchdkdnc5678ananvkd
+PHONENUMBER +12345678
+```
 
 Save the file and run the program:
 
